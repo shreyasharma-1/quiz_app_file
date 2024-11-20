@@ -1,0 +1,10 @@
+What is the keyword used to define a function in Python?|def|function|func|declare|1
+Which of the following is immutable in Python?|list|tuple|dictionary|set|2
+Which keyword is used to create a class in Python?|class|define|new|create|1
+Which built-in function returns the length of a list in Python?|size()|length()|len()|count()|3
+Which of the following is a valid Python list comprehension?|[x for x in range(5)]|for x in range(5)|range(5).each|for each x in range(5)|1
+Which data type is used to store True/False values in Python?|integer|boolean|string|float|2
+What does the `strip()` method do in Python?|Removes all whitespaces|Removes leading and trailing whitespaces|Removes leading whitespaces only|Removes trailing whitespaces only|2
+How do you declare a variable and assign the value 10 to it in Python?|let x = 10|x == 10|x = 10|declare x = 10|3
+Which of the following methods is used to add an item to a Python list?|insert()|append()|add()|push()|2
+Which keyword is used to handle exceptions in Python?|throw|catch|except|try|3

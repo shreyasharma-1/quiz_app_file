@@ -1,0 +1,10 @@
+What is the size of a double in C++?|2 bytes|4 bytes|8 bytes|16 bytes|3
+Which operator is used to allocate memory in C++?|malloc|allocate|new|free|3
+What is the correct syntax to include a library in C++?|import|include|using|library|2
+Which of the following loops is guaranteed to run at least once?|for loop|while loop|do-while loop|None of the above|3
+How do you declare a constant variable in C++?|constant x = 10;|const int x = 10;|int const x = 10;|static int x = 10;|2
+Which of the following is a valid data type in C++?|string|str|String|char|4
+Which of the following is used to create a class in C++?|create|class|new class|object|2
+What is the correct way to define a constructor in C++?|classname::classname()|constructor classname()|create classname()|def classname()|1
+Which of the following types is used to represent characters in C++?|char|int|string|boolean|1
+Which keyword is used to return a value from a function in C++?|break|return|output|end|2

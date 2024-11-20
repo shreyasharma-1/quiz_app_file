@@ -1,0 +1,10 @@
+What is the size of int in Java?|2 bytes|4 bytes|8 bytes|16 bytes|2
+How do you declare a class in Java?|class ClassName|declare ClassName|Class ClassName|init ClassName|1
+Which of these is not a Java keyword?|class|if|then|else|3
+Which method is called to start a Java application?|start()|run()|main()|init()|3
+Which of the following is a wrapper class for primitive types in Java?|Integer|int|float|boolean|1
+What is the correct syntax to print a line in Java?|System.print()|System.out.printline()|System.out.println()|print()|3
+Which keyword is used to inherit a class in Java?|implement|extend|inherit|parent|2
+Which of the following is a valid access modifier in Java?|default|internal|private|protected|3
+What is the file extension for a compiled Java file?|.java|.class|.byte|.jar|2
+Which data structure allows duplicate values in Java?|Set|List|Map|None of the above|2
